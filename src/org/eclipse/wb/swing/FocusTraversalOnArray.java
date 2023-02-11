@@ -19,7 +19,7 @@ import java.awt.FocusTraversalPolicy;
  * <p>
  * This class may be freely distributed as part of any application or plugin.
  * 
- * @author scheglov_ke
+
  */
 public class FocusTraversalOnArray extends FocusTraversalPolicy {
 	private final Component m_Components[];

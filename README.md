@@ -1,13 +1,5 @@
 # **Pharmacy-Management-System**
 
-**How to run the Project:**
-1. Clone this repo using 
-   - `git clone https://github.com/syedibrahim/Pharmacy-Management-System.git`
-2. Install Eclipse J2EE or any other IDE of your choice.
-3. Use WAMP or XAMPP or any server of your choice.
-4. First create the MySql database on WAMP server using the sql file in the repo
-5. And then build and run the project from the IDE. 
-
 **Login Information** <br>
  ```
  id :1
@@ -38,19 +30,7 @@ The aim of the project is to create an effective software to help the pharmacist
 •To provide details information about the stock on details necessary and help locate it in shop easily. <br>
 •To make the stock manageable and simplify the use of inventory in the pharmacy.<br>
 
-**Hardware and software tools:**<br>
-The system services and goals are established by consultation with system user. They are then defined in details and serve as a system specification. System requirement are those on which the system runs.<br><br>
 
-⚙️	**Hardware Requirements:**<br>
-o	Computer with either Intel Pentium processor or AMD processor.<br>
-o	1GB+ DDR RAM<br>
-o	40GB hard disk drive<br>
-
-
-💻	**Software Requirements:**<br>
-o	Windows/ MacOS/ Linux operating system.<br>
-o	JRE and JDK.<br>
-o	MySQL server (WAMP or XAMPP or any)<br>
 
 # Chapter 2 - DESIGN<br>
 Database Design is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems.<br>
